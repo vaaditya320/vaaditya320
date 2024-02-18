@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vaaditya320/" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)" height="25" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:vaaditya320@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
