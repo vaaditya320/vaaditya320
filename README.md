@@ -22,7 +22,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="50" alt="linkedin logo"  />
   </a>
   <a href="mailto:vaaditya320@gmail.com" target="_blank">
-    <img src="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo" height="50" width="50" alt="gmail logo"  />
+    <img src="icons8-gmail-logo.gif" height="50" width="50" alt="gmail logo"  />
   </a>
 </div>
 
