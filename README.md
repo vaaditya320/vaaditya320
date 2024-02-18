@@ -9,11 +9,13 @@
 <div>
 <p align="left"I'm Aaditya from Jaipur<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Django<br>- ⚡ In my free time I explore web application security</p>
 </div>
-<div style="margin-left: 100;">
+<div style="margin-left: 100px;">
    <img height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 </div>
 </div>
+
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vaaditya320/" target="_blank">
