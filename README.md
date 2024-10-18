@@ -1,7 +1,7 @@
 <h1 align="center">hey there 👋</h1>
 
 # 💫 About Me:
-- 🔭 I’m a Student<br>- 📚 I'm currently learning Django<br>- ⚡ In my free time I explore web application security
+- 🔭 I’m a Student<br>- 📚 I'm currently doing bug bounty hunting<br>- ⚡ In my free time I explore backend web development 
 
 
 ## 🌐 Socials:
