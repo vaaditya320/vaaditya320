@@ -1,6 +1,17 @@
-# 💫 About Me:
-I'm a dedicated student with a passion for web development and cybersecurity, constantly expanding my technical expertise and applying it to real-world challenges.<br><br>🔍 Actively participating in Bug Bounty Programs, identifying and responsibly disclosing security vulnerabilities<br>💻 Specializing in Backend Development with Django and Next.js<br>🌱 Committed to continuous learning and staying current with emerging technologies<br>🔐 Focused on implementing secure coding practices and robust application architecture
+<h1 align="center">Aditya V. | Web Pentester & Backend Developer</h1>
 
+# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A54ec7&center=true&vCenter=true&width=435&lines=Backend+Developer;Security+Researcher;Bug+Bounty+Hunter;Web+Pentester" alt="Typing SVG" />
+</div>
+
+I'm a dedicated developer with a passion for web development and cybersecurity, constantly expanding my technical expertise and applying it to real-world challenges.
+
+- 🔍 Actively participating in Bug Bounty Programs, identifying and responsibly disclosing security vulnerabilities
+- 💻 Specializing in Backend Development with Django and Next.js
+- 🌱 Committed to continuous learning and staying current with emerging technologies
+- 🔐 Focused on implementing secure coding practices and robust application architecture
+- 🛠️ Building scalable solutions with performance and security in mind
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaaditya320) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaaditya320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vaaditya320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaaditya320@gmail.com) 
