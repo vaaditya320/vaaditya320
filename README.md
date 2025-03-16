@@ -1,4 +1,4 @@
-<h1 align="center">Aditya V. | Web Pentester & Backend Developer</h1>
+<h1 align="center">Aaditya V. | Web Pentester & Backend Developer</h1>
 
 # 💫 About Me:
 <div align="center">
